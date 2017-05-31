@@ -1,5 +1,7 @@
 # Working with APIs
 
+Llllllola! La-la, la-la loooola!
+
 ## Instructions
 
 1. This lab begins where the [Rails Github API](https://github.com/learn-co-curriculum/rails-github-api/) lab leaves off. You're provided with a solution to that lab.
